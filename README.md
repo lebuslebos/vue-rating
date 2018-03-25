@@ -1,4 +1,7 @@
-# vue-rating
-a very simple vue component for rating
-<br/>一个星星点评的组件。
-<br/>cdn需引入font-awesome，然后复制.vue文件直接用，非常简单。
+###an amazing simple vue component for rating
+
+###一个极其简单的星星点评的组件，仅1.2k。
+
+###usage：
+
+#####require font-awesome's cdn in <script>，then copy the .vue file，then import this component in the app.js or any other u like。
