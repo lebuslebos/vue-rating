@@ -28,7 +28,6 @@
         methods: {
             onEnter(n) {
                 this.enter = n;
-                this.hint = this.hintArr[n]
             },
             onLeave() {
                 this.enter = this.rate;
